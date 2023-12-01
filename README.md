@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TripleMZee
 - 👀 I’m interested in Fullstack web development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any future projects
 - 📫 How to reach me; Twitter: @_ zeeder_ WhatsApp: 08187201573 Instagram:@_ zeeder_
 
